@@ -101,6 +101,8 @@ body {
 		<td class="texto" align="center">
 		 <input type="hidden" name="acao" value="altera">
 		 <input type="button" onClick="window.open('cliente_inclui.php?opcao=I','clienteinclui','width=900,height=500,menubar=no,location=no,resizable=yes,status=no,toolbar=no,scrollbars=yes');" value="CADASTRAR / INCLUIR" class="texto" style="width:200px;height:30px;color:#FFFFFF;font-family:Verdana;font-weight:bold;font-size:12;background-color:#191970;border-color:#191970;">&nbsp; 
+<br>
+<br>
 		 <input type="button" onClick="window.open('cliente_lista.php?opcao=L','clienteinclui','width=900,height=500,menubar=no,location=no,resizable=yes,status=no,toolbar=no,scrollbars=yes');" value="CONSULTAR / ATUALIZAR" class="texto" style="width:200px;height:30px;color:#FFFFFF;font-family:Verdana;font-weight:bold;font-size:12;background-color:#191970;border-color:#191970;">&nbsp; 
 		 <br><br>
 		</td>
