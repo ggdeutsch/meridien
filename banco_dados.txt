@@ -1,0 +1,3 @@
+ 
+CREATE TABLE `so100net_my03`.`cliente` (`tipopj_pf_` CHAR(1) NOT NULL , `nome_razao` VARCHAR(50) NOT NULL , `cpf_cnpj` INT(14) NOT NULL , `email` VARCHAR(50) NOT NULL , `telefone` VARCHAR(20) NOT NULL , `socio` CHAR(1) NOT NULL , PRIMARY KEY (`codigo`)) ENGINE = InnoDB;
+ALTER TABLE `cliente` ADD `data_inclusao` DATE NOT NULL ;
